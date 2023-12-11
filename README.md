@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 <div align="center">
 <h1 align="center">Hola, soy Martin Cortez</a> 👋</h1>
 </div>
-<img src="https://i.imgur.com/weNbhGZ.png">
+<img src="https://www.google.com/search?q=como+organizar+mi+github&oq=como+organizar+mi+git&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBggAEEUYOTIHCAEQABiABNIBCTExMTM1ajBqMagCALACAA&sourceid=chrome&ie=UTF-8">
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
+<!--[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1) -->
 [![GitHub followers](https://img.shields.io/github/followers/monnsmonsh?style=social)](https://github.com/monnsmonsh)
 ## Sobre mi
 
