@@ -118,5 +118,6 @@ Here are some ideas to get you started:
 
 ## 🏆&nbsp; GitHub Trophies
 <p align="center">
-![](https://github-profile-trophy.vercel.app/?username=monnsmonsh&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+  <a href="https://github.com/monnsmonsh">
+    <img height="180em" src="https://github-profile-trophy.vercel.app/?username=monnsmonsh&theme=radical&no-frame=false&no-bg=false&margin-w=4"/>
 </p>
