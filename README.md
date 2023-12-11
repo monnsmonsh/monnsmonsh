@@ -25,7 +25,8 @@ Here are some ideas to get you started:
 
 
 ## Sobre mi
-I have a course platform <ahref="https://github.com/ArisGuimera/Android-Expert" target="_blank">nogara.dev</a>
+<p>I have a course platform <ahref="https://github.com/ArisGuimera/Android-Expert" target="_blank">monse.dev</a>
+</p>
 - ⭐ Github Star ⭐ 
 ## Proyectos *bombitas*
 
