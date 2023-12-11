@@ -121,3 +121,5 @@ Here are some ideas to get you started:
   <a href="https://github.com/monnsmonsh">
     <img height="180em" src="https://github-profile-trophy.vercel.app/?username=monnsmonsh&theme=radical&no-frame=false&no-bg=false"/>
 </p>
+
+[![](https://visitcount.itsvg.in/api?id=monnsmonsh&icon=4&color=1)](https://visitcount.itsvg.in)
