@@ -125,6 +125,6 @@ Here are some ideas to get you started:
 </p>
 <p align="center">
 <a href="https://github.com/monnsmonsh">
-  <img height="50em" src="https://visitcount.itsvg.in/api?id=monnsmonsh&icon=4&color=1"/>
+  <img height="30em" src="https://visitcount.itsvg.in/api?id=monnsmonsh&icon=4&color=1"/>
 </a>
 </p>
