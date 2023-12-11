@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <!--[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1) -->
 [![GitHub followers](https://img.shields.io/github/followers/monnsmonsh?style=social)](https://github.com/monnsmonsh)
-[![GitHub Visit](https://visitcount.itsvg.in/api?id=monnsmonsh?style=social)](https://github.com/monnsmonsh)
+
 ## Sobre mi
 
 - ⭐ Github Star ⭐ 
