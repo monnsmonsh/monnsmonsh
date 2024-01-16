@@ -1,22 +1,9 @@
-### Hi there 👋
+<h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
 
-<!--
-**monnsmonsh/monnsmonsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <div align="center">
-<h1 align="center">Hola, soy Martin Cortez</a> 👋</h1>
+  <h1 align="center">My name is Martin and I'm a javascript developer, from Mexico</h1>
 </div>
 <img src="https://media.licdn.com/dms/image/D4E16AQHcoFtiYxheGA/profile-displaybackgroundimage-shrink_350_1400/0/1700843712379?e=1707955200&v=beta&t=23zlA94W6ppIlj_nkGGC3zAiGHhK6MOScCCbZuEEsvA">
 
@@ -26,8 +13,8 @@ Here are some ideas to get you started:
 </p>
 
 ## About me
-- ✨ Creating bugs since 2019
-- 📚 I'm currently learning japanis <img src="https://cdn-icons-png.flaticon.com/128/197/197484.png" width="17" />  and docker 🐳
+- ✨ Creating bugs since 2012
+- 📚 I'm currently learning japanis and p 🐳
 
   
 ## Proyectos *bombitas*
