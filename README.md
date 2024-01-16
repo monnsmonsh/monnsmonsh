@@ -25,10 +25,14 @@ Here are some ideas to get you started:
 <p>I have a course platform <a href="https://monnsmonsh.github.io/" target="_blank">monse.dev</a>
 </p>
 
-## Sobre mi
+## About me
+- ✨ Creating bugs since 2019
+- 📚 I'm currently learning japanis <img src="https://cdn-icons-png.flaticon.com/128/197/197484.png" width="17" />  and docker 🐳
 
-- ⭐ Github Star ⭐ 
+  
 ## Proyectos *bombitas*
+
+
 
 <!--
 <table>
