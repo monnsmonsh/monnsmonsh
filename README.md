@@ -150,7 +150,7 @@
     
 <p align="center">
 <a href="https://github.com/monnsmonsh">
-  <img height="30em" src="https://visitcount.itsvg.in/api?id=monnsmonsh&icon=4&color=1"/>
+  <!--<img height="30em" src="https://visitcount.itsvg.in/api?id=monnsmonsh&icon=4&color=1"/>-->
   <img height="30em"  src="https://komarev.com/ghpvc/?username=monnsmonsh&label=Profile%20views&color=0e75b6&style=flat" alt="monnsmonsh" />
 </a>
 </p>
